@@ -1,4 +1,4 @@
-# 🚗 University Car Request System (UCRS)
+# 🚗 Online Car Request System (OCRS)
 
 ## 📌 Project Overview
 
